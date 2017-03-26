@@ -1,7 +1,7 @@
 ## This is my first project.
-### git 常用基本命令 
+### git 常用基本命令
 
-mkdir：         XX (创建一个空目录 XX指目录名)
+  mkdir：         XX (创建一个空目录 XX指目录名)
 
   pwd：          显示当前目录的路径。
 
